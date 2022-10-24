@@ -1,0 +1,11 @@
+C:\Users\Albi\source\repos\P5_4_1204075_Fathur\P5_4_1204075_Fathur\bin\Debug\P5_4_1204075_Fathur.exe.config
+C:\Users\Albi\source\repos\P5_4_1204075_Fathur\P5_4_1204075_Fathur\bin\Debug\P5_4_1204075_Fathur.exe
+C:\Users\Albi\source\repos\P5_4_1204075_Fathur\P5_4_1204075_Fathur\bin\Debug\P5_4_1204075_Fathur.pdb
+C:\Users\Albi\source\repos\P5_4_1204075_Fathur\P5_4_1204075_Fathur\obj\Debug\P5_4_1204075_Fathur.csproj.AssemblyReference.cache
+C:\Users\Albi\source\repos\P5_4_1204075_Fathur\P5_4_1204075_Fathur\obj\Debug\P5_4_1204075_Fathur.csproj.SuggestedBindingRedirects.cache
+C:\Users\Albi\source\repos\P5_4_1204075_Fathur\P5_4_1204075_Fathur\obj\Debug\P5_4_1204075_Fathur.Form1.resources
+C:\Users\Albi\source\repos\P5_4_1204075_Fathur\P5_4_1204075_Fathur\obj\Debug\P5_4_1204075_Fathur.Properties.Resources.resources
+C:\Users\Albi\source\repos\P5_4_1204075_Fathur\P5_4_1204075_Fathur\obj\Debug\P5_4_1204075_Fathur.csproj.GenerateResource.cache
+C:\Users\Albi\source\repos\P5_4_1204075_Fathur\P5_4_1204075_Fathur\obj\Debug\P5_4_1204075_Fathur.csproj.CoreCompileInputs.cache
+C:\Users\Albi\source\repos\P5_4_1204075_Fathur\P5_4_1204075_Fathur\obj\Debug\P5_4_1204075_Fathur.exe
+C:\Users\Albi\source\repos\P5_4_1204075_Fathur\P5_4_1204075_Fathur\obj\Debug\P5_4_1204075_Fathur.pdb
